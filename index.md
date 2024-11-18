@@ -22,7 +22,12 @@ Here's a smaller subsection with an `<h4>` header.
 
 [Learn Markdown basics](https://www.markdownguide.org/basic-syntax/)
 
+#### Being a dart and flutter dev i'd love to write this :
 ```
-Being a dart and flutter dev i'd love to write this 
 print("Hello, World!");
 ```
+---
+### Introducing my future To - Do :
+- [X] Become a Full-stack dev in dart.
+- [X] Learn full-stack web.
+- [ ] Problems solving in leetcode.
