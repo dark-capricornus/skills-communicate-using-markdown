@@ -1,6 +1,7 @@
 # Welcome to My Markdown File
 ## About Markdown
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+---
 Markdown is  a simple lightweight syntax formatting text.
 ### Features of Markdown
   - Easy to learn
